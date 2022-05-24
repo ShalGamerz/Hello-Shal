@@ -95,23 +95,21 @@ p {
     font-family: Segoe UI;
 }
 
-p b{
+p b {
     color: red;
 }
 
-td{
+td {
     align-items: center;
-    
+
 }
 
-h1{
-    font-family: CopperplateGothic;
-    font-weight: bold;
+h1 {
+    font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    font-size: 45px;
     color: wheat;
     margin-left: 38vw;
     border: 4px solid black;
     border-radius: 0.5vw;
-    background-color: red;
+    background-color: black;
 }
