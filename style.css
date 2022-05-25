@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     background-image: linear-gradient(to bottom right, rgba(0, 234, 255, 0.269), rgba(255, 81, 0, 0.539));
+    background-repeat: no-repeat;
 }
 
 .margin-auto {
@@ -97,7 +98,7 @@ nav div ul a {
 
 }
 
-p {
+.pollutionPara {
     padding: 3.5vw;
     font-size: 24px;
     font-family: Segoe UI;
@@ -126,4 +127,15 @@ h1 {
     color: wheat;
     display: inline-block;
     text-decoration: none;
+}
+
+.imgAir {
+    padding-left: 3.5vw;
+    width: 50%;
+    margin-left: 0px;
+}
+
+.boldAir {
+    font-size: 28px;
+    color: black;
 }

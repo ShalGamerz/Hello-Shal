@@ -1,10 +1,10 @@
 .body-bg{
-    background-image: linear-gradient(to bottom right, rgba(255, 0, 0, 0.331), rgba(255, 255, 0, 0.331));
+    background-image: linear-gradient(to right, rgb(0, 0, 0), rgb(255, 255, 254), black);
 }
 
 .ul-span {
     border: 2px solid black;
-    background-image: linear-gradient(to bottom right, red, yellow);
+    background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(91, 91, 86));
 }
 
 div {
@@ -14,11 +14,12 @@ div {
     padding: 150px;
     margin: auto;
     margin-top: 100px;
-    color: black;
+    color: rgb(0, 0, 0);
     font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
     font-weight: bold;
     width: 250px;
     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.484), 10px 10px 5px rgba(0, 0, 0, 0.046);
     text-align: center;
+    
 }
