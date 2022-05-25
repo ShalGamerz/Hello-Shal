@@ -74,8 +74,8 @@ nav div ul a {
 
 .hr-properties {
     border: 2px solid rgb(0, 0, 0);
-    margin-left: 3.5vw;
-    margin-right: 3.5vw;
+    margin-left: 3vw;
+    margin-right: 3vw;
     background-color: black;
 }
 
@@ -130,9 +130,10 @@ h1 {
 }
 
 .imgAir {
-    padding-left: 3.5vw;
+    margin-left: 43px;
     width: 50%;
-    margin-left: 0px;
+    border-radius: 2vw;
+    border: 4px solid rgb(0, 0, 0);
 }
 
 .boldAir {
